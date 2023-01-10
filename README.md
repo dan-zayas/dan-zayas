@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=dan-zayas&color=000000&style=for-the-badge)
 
 Here is a picture of my dog, Luigi.
+<br/>
 <img src="https://github.com/dan-zayas/dan-zayas/blob/main/IMG_20220424_174331.jpeg?raw=true">
