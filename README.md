@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 
 <p>Here is a picture of my dog, Luigi.</p>
 <img src="https://github.com/dan-zayas/dan-zayas/blob/main/IMG_20220424_174331.jpeg?raw=true">
+<p>Please hire me so I can buy him the best foods, toys, vacations, and treats.</p>
